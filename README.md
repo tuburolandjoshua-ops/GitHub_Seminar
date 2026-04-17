@@ -8,8 +8,7 @@
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
 
-I'm a 3rd-year CS student at Angeles University Foundation, passionate about
-AI, web development, and mobile apps.
+I’m currently a third-year Computer Science student at Angeles University Foundation, where I’ve been actively building a strong foundation in both theoretical and practical aspects of computing. Over the course of my studies, I’ve developed a deep interest in artificial intelligence, particularly in how machine learning models can be applied to solve real-world problems and improve user experiences.
 
 ---
 
@@ -18,6 +17,8 @@ AI, web development, and mobile apps.
      You can also mention hobbies — it makes your profile feel human. -->
 
 ## About me
+
+I’m continuously learning new tools and technologies, working on personal and academic projects, and looking for opportunities to grow as a developer. My goal is to become a well-rounded software engineer who can contribute to innovative projects, particularly those that leverage AI to make a meaningful impact.
 
 - 🎓 Studying BSCS at AUF
 - 💻 Currently learning GitHub
@@ -50,8 +51,8 @@ AI, web development, and mobile apps.
 
 | Project                                              | Description              | Tech          |
 | ---------------------------------------------------- | ------------------------ | ------------- |
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | Python, Flask |
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS      |
+| PARA(https://github.com/yourusername/repo) | Philippine Commute App | Python, Flask |
+| CatFacts(https://github.com/yourusername/repo) | Generates CatFacts | HTML, JS      |
 
 ---
 
@@ -60,8 +61,8 @@ AI, web development, and mobile apps.
 
 ## Let's connect
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 rolandjoshuatubu@gmail.com(mailto:rolandjoshuatubu@gmail.com)
+- 💼 Roland Joshua Tubu(https://linkedin.com/in/roland-joshua-tubu)
 
 <!-- ============================================================
      TIP: After editing, go to github.com/[yourusername]/[yourusername]
